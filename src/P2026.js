@@ -4,10 +4,10 @@ import { useNavigate } from 'react-router-dom';
 
 const memories = [
   { id: 1, url: '/img/KakaoTalk_20260707_090558538.jpg', title: '03/31 벚꽃' },
-  { id: 2, url: '/img/KakaoTalk_20260707_090723177.JPG', title: '04/18 속초' },
-  { id: 3, url: '/img/KakaoTalk_20260707_090754496.JPG', title: '04/24 상암 vct' },
-  { id: 4, url: '/img/KakaoTalk_20260707_090814535.JPG', title: '05/18 경주' },
-  { id: 5, url: '/img/KakaoTalk_20260707_091029265.JPG', title: '06/05 송정해수욕장' },
+  { id: 2, url: '/img/KakaoTalk_20260707_090723177.jpg', title: '04/18 속초' },
+  { id: 3, url: '/img/KakaoTalk_20260707_090754496.jpg', title: '04/24 상암 vct' },
+  { id: 4, url: '/img/KakaoTalk_20260707_090814535.jpg', title: '05/18 경주' },
+  { id: 5, url: '/img/KakaoTalk_20260707_091029265.jpg', title: '06/05 송정해수욕장' },
   // { id: 6, url: '/img/IMG_0831.JPG', title: '10/24 강릉' },
   // { id: 7, url: '/img/IMG_E0556.JPG', title: '06/25 부산 광안리' },
   // { id: 8, url: '/img/IMG_E0655.JPG', title: '07/18 지브리전시' },
