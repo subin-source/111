@@ -18,8 +18,7 @@ http://2025memory.shop
 - 정적 웹 사이트 배포
 
 ## 배포 환경
-- AWS S3를 활용한 정적 파일 호스팅
-- CloudFront CDN 연결
+- github vercel 활용한 정적 파일 호스팅
 
 ## 프로젝트 목적
 React 컴포넌트 구조와 배포 환경에 대한 이해를 높이기 위해 진행한 프로젝트입니다.
