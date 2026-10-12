@@ -9,7 +9,7 @@ const memories = [
   { id: 4, url: '/img/KakaoTalk_20260707_090814535.jpg', title: '05/18 경주' },
   { id: 5, url: '/img/KakaoTalk_20260707_091029265.jpg', title: '06/05 송정해수욕장' },
   { id: 6, url: '/img/KakaoTalk_20260825_100246767.jpg', title: '08/22 잠실 별빛낙원' },
-  // { id: 7, url: '/img/IMG_E0556.JPG', title: '06/25 부산 광안리' },
+  { id: 7, url: '/img/KakaoTalk_20261012_160926051.jpg', title: '10/03 XMF페스티벌' },
   // { id: 8, url: '/img/IMG_E0655.JPG', title: '07/18 지브리전시' },
 ];
 
